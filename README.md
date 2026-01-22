@@ -55,7 +55,7 @@ This gives you proper checkboxes instead of manually typing TRUE/FALSE.
 
 ## Download
 
-- [Fable III Collectible List (Excel)](./fable-3-collectible-list.xlsx)
+- [Fable III Collectible List (Excel)](./Fable 3 Collectible list.xlsx)
 
 
 ## License
