@@ -1,5 +1,7 @@
 # Fable III Collectible Tracking Spreadsheet
 
+[Download the spreadsheet](./Fable%203%20Collectible%20list.xlsx)
+
 ## What this is
 This spreadsheet is a practical, player‑friendly tool for tracking every major collectible in *Fable III*. It organizes Silver Keys, Gold Keys, Gnomes, and Books into clean, structured sheets with consistent columns and simple check‑off fields. Each entry includes region, sub‑area, item number, and a clear location description so you always know exactly where to look.
 
@@ -55,7 +57,7 @@ This gives you proper checkboxes instead of manually typing TRUE/FALSE.
 
 ## Download
 
-- [Fable III Collectible List (Excel)](./Fable 3 Collectible list.xlsx)
+[Download the spreadsheet](./Fable%203%20Collectible%20list.xlsx)
 
 
 ## License
